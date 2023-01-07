@@ -1,0 +1,16 @@
+C:\Users\aliss\source\repos\DPServer\DPServer\obj\Release\DPServer.csproj.AssemblyReference.cache
+C:\Users\aliss\source\repos\DPServer\DPServer\obj\Release\DPServer.csproj.SuggestedBindingRedirects.cache
+C:\Users\aliss\source\repos\DPServer\DPServer\obj\Release\DPServer.csproj.CoreCompileInputs.cache
+C:\Users\aliss\source\repos\DPServer\DPServer\bin\Release\DPServer.exe.config
+C:\Users\aliss\source\repos\DPServer\DPServer\bin\Release\DPServer.exe
+C:\Users\aliss\source\repos\DPServer\DPServer\bin\Release\DPServer.pdb
+C:\Users\aliss\source\repos\DPServer\DPServer\obj\Release\DPServer.exe
+C:\Users\aliss\source\repos\DPServer\DPServer\obj\Release\DPServer.pdb
+D:\Projects\source\repos\DPServer\DPServer\bin\Release\DPServer.exe.config
+D:\Projects\source\repos\DPServer\DPServer\bin\Release\DPServer.exe
+D:\Projects\source\repos\DPServer\DPServer\bin\Release\DPServer.pdb
+D:\Projects\source\repos\DPServer\DPServer\obj\Release\DPServer.csproj.AssemblyReference.cache
+D:\Projects\source\repos\DPServer\DPServer\obj\Release\DPServer.csproj.SuggestedBindingRedirects.cache
+D:\Projects\source\repos\DPServer\DPServer\obj\Release\DPServer.csproj.CoreCompileInputs.cache
+D:\Projects\source\repos\DPServer\DPServer\obj\Release\DPServer.exe
+D:\Projects\source\repos\DPServer\DPServer\obj\Release\DPServer.pdb

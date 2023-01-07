@@ -1,0 +1,8 @@
+C:\Users\aliss\source\repos\DPServer\DPServer\bin\Debug\DPServer.exe.config
+C:\Users\aliss\source\repos\DPServer\DPServer\bin\Debug\DPServer.exe
+C:\Users\aliss\source\repos\DPServer\DPServer\bin\Debug\DPServer.pdb
+C:\Users\aliss\source\repos\DPServer\DPServer\obj\Debug\DPServer.csproj.AssemblyReference.cache
+C:\Users\aliss\source\repos\DPServer\DPServer\obj\Debug\DPServer.csproj.SuggestedBindingRedirects.cache
+C:\Users\aliss\source\repos\DPServer\DPServer\obj\Debug\DPServer.csproj.CoreCompileInputs.cache
+C:\Users\aliss\source\repos\DPServer\DPServer\obj\Debug\DPServer.exe
+C:\Users\aliss\source\repos\DPServer\DPServer\obj\Debug\DPServer.pdb
